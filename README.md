@@ -8,6 +8,8 @@ API Rest desenvolvida utilizando os princípios e padrões de nomenclatura do Ja
 
 Url de Deploy: https://todolist-5h1j.onrender.com
 
+Utilizar uma ferramenta client para consumo de API REST como Postman ou Insomnia.
+
   
 
 ## Rotas
