@@ -6,7 +6,7 @@
 
 API Rest desenvolvida utilizando os princípios e padrões de nomenclatura do Java, juntamente com o SpringBoot.
 
-[URL Do Deploy](https://todolist-5h1j.onrender.com)
+Url de Deploy: https://todolist-5h1j.onrender.com
 
   
 
