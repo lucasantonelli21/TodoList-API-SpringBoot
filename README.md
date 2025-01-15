@@ -14,7 +14,7 @@ API Rest desenvolvida utilizando os princípios e padrões de nomenclatura do Ja
 
   
 
-Basicamente, temos duas rotas. A rota **_users_**, onde temos apenas um ENDPOINT para cadastro de usuário, com o seguinte corpo de request:
+Basicamente, temos duas rotas. A rota POST **/_users_/**, onde temos apenas um ENDPOINT para cadastro de usuário, com o seguinte corpo de request:
 
   
 
@@ -22,7 +22,7 @@ Basicamente, temos duas rotas. A rota **_users_**, onde temos apenas um ENDPOINT
 
   
 
-A outra rota da aplicação é a rota **_tasks,_** possuindo requisições GET, POST e PUT. Em todas as requisições, deve ser passado como autenticação básica o userName e a senha do usuário previamente criado, como no exemplo abaixo:
+A outra rota da aplicação é a rota **/_tasks_/**, possuindo requisições GET, POST e PUT. Em todas as requisições, deve ser passado como autenticação básica o userName e a senha do usuário previamente criado, como no exemplo abaixo:
 
   
 
