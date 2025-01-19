@@ -1,5 +1,43 @@
 # README TodoList-Java
 
+# TodoList - API with SpringBoot
+
+REST API developed using Java principles and naming conventions, along with SpringBoot.
+
+Deployment URL: https://todolist-5h1j.onrender.com
+
+Use a client tool to consume the REST API, such as Postman or Insomnia.
+
+## Routes
+
+There are essentially two routes. The POST route **/_users_/**, where there is only one endpoint for user registration, with the following request body:
+
+![](https://t9011727272.p.clickup-attachments.com/t9011727272/96c523a0-422b-45e7-9cb2-4e1d38b250c1/image.png)
+
+The other route in the application is **/_tasks_/**, which includes GET, POST, and PUT requests. For all requests, basic authentication should be provided using the username and password of the previously created user, as shown in the example below:
+
+![](https://t9011727272.p.clickup-attachments.com/t9011727272/0019e375-401a-46d5-8f44-c65946618c0b/image.png)
+
+In the request body, attributes should be passed depending on the type of request, as demonstrated in the examples below:
+
+**POST**
+
+![](https://t9011727272.p.clickup-attachments.com/t9011727272/1c5e985b-92f9-430a-b71d-f06e4d81a66f/image.png)
+
+**GET**
+
+No attributes are required in the body.
+
+**PUT**
+
+You can pass any attribute (one or more) from the task class that you want to update, as shown in the example below:
+
+![](https://t9011727272.p.clickup-attachments.com/t9011727272/f580ce72-02fe-4c49-9ed2-be5c3053b8c3/image.png)
+
+
+
+# README TodoList-Java - Portuguese
+
 # TodoList - API com SpringBoot
 
   
