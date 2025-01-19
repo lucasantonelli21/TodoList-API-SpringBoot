@@ -1,4 +1,4 @@
-# README TodoList-Java
+
 
 # TodoList - API with SpringBoot
 
@@ -36,9 +36,9 @@ You can pass any attribute (one or more) from the task class that you want to up
 
 
 
-# README TodoList-Java - Portuguese
 
-# TodoList - API com SpringBoot
+
+# TodoList - API com SpringBoot Portuguese
 
   
 
